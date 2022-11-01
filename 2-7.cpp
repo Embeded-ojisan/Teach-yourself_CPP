@@ -42,7 +42,7 @@ void product::set_price(int new_price)
 
     price = new_price
 }
-
+ 
 int product::get_stock()
 {
     return stock;
